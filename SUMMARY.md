@@ -40,6 +40,7 @@
   * [Blank Page](laravel-version/blank-page.md)
   * [How to change the layout](laravel-version/how-to-change-the-layout.md)
 * [Updates](updates/README.md)
+  * [3.x](updates/3.x.md)
   * [2.3](updates/23.md)
   * [2.8](updates/28.md)
   * [2.7](updates/27.md)
