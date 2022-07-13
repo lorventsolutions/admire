@@ -29,6 +29,7 @@
 * [Laravel Version](laravel-version/README.md)
   * [Installation](laravel-version/installation/README.md)
     * [Previous Versions](laravel-version/installation/previous-versions/README.md)
+      * [Laravel 8](laravel-version/installation/previous-versions/laravel-8.md)
       * [Laravel 7](laravel-version/installation/previous-versions/laravel-7.md)
       * [Laravel 5.6](laravel-version/installation/previous-versions/laravel-5.6.md)
   * [Layouts](laravel-version/layouts/README.md)
@@ -49,4 +50,3 @@
   * [2.0](updates/2.0.md)
   * [1.4](updates/14.md)
   * [1.3](updates/13.md)
-

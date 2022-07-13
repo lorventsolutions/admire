@@ -1,16 +1,16 @@
-# Installation
+# Laravel 8
 
-## Laravel 9.x Installation
+## Laravel 8.x Installation
 
 The zip file contains all laravel files integrated with Admire, however you need to perform following steps to get vendors etc.
 
 ### Minimum Requirements
 
-For laravel 8.x , the minimum version of php required is `8.1` and
+For laravel 8.x , the minimum version of php required is `7.3` and
 
 the following php extensions are required
 
-* PHP >= 8.1
+* PHP >= 7.3
 * OpenSSL PHP Extension
 * PDO PHP Extension
 * Mbstring PHP Extension
@@ -41,7 +41,7 @@ chown -R www-data /var/www
 
 > If you don't have good knowledge on nodejs and npm, you can skip this step however this step is recommonded if you want to modify the template as per your needs.
 
-Make sure you have [nodejs](https://nodejs.org) installed in your system with minimum version `12.x`,
+Make sure you have [nodejs](https://nodejs.org) installed in your system with minimum version `8.9.x`,
 
 you can check installed version by running `node -v` command in terminal.
 
@@ -53,7 +53,7 @@ If you are having older version, please install latest version from [nodejs.org]
 
 &#x20;**Install local packages**&#x20;
 
-`yarn install`
+`npm install`
 
 &#x20;**Get bower components**&#x20;
 
